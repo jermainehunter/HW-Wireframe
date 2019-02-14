@@ -14,15 +14,16 @@ h1 p
     background: #ebebeb;
 }
 pw
+
 /** header css **/
 
-.header
-{
+.header {
     height: 70px;
-    background: #ebebeb;
+    background-color: #ebebeb;
     margin-top:20px;
     text-align: center;
     position: auto 0;
+    color: black;
 }
 
 .header_text
@@ -54,8 +55,7 @@ pw
     width: 495px;
     background: #ebebeb;
     text-align: center;
-    position: fixed;
-}
+    float: left;}
 
 .section_text
 {
@@ -71,7 +71,7 @@ pw
     background: #ebebeb;
     text-align: center;
     position: relative;
-    margin-left:520px;
+    margin-left: 520px;
 }
 
 .aside_text
