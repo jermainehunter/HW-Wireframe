@@ -18,13 +18,11 @@ h1 p
 
 .header
 {
-    
     height: 70px;
     background: #ebebeb;
     margin-top:20px;
     text-align: center;
     position: auto 0;
-
 }
 
 .header_text
@@ -36,13 +34,11 @@ h1 p
 
 .nav
 {
-  
     height: 70px;
     background: #ebebeb;
     margin-top:20px;
     text-align: center;
     position: auto 0;
-
 }
 
 .nav_text
@@ -54,13 +50,11 @@ h1 p
 
 .section
 {
-  
     height: 300px;
     width: 495px;
     background: #ebebeb;
     text-align: center;
     position: fixed;
-
 }
 
 .section_text
@@ -72,15 +66,12 @@ h1 p
 
 .aside
 {
-  
     height: 300px;
     width: 440px;
     background: #ebebeb;
     text-align: center;
     position: relative;
     margin-left:520px;
-   
-
 }
 
 .aside_text
@@ -92,16 +83,12 @@ h1 p
 
 .article
 {
-  
     height: 200px;
     width: 96%;
     background: #777;
     text-align: center;
     position: relative;
     left:2%;
-   
-   
-
 }
 
 .article_text
@@ -114,44 +101,33 @@ h1 p
 
 .the_headers
 {
-  
     height: 50px;
     width: 90%;
     background: #ebebeb;
     text-align: center;
     position: relative;
     left:5%;
-   
-   
-
 }
 
 .the_headers_text
 {
-    padding-top: 10px;
-    
+    padding-top: 10px; 
 }
 
 /** the paragraph css **/
 .paragraph
 {
-  
     height: 50px;
     width: 90%;
     background: #ebebeb;
     text-align: center;
     position: relative;
     left:5%;
-   
-   
-   
-
 }
 
 .paragraph_text
 {
     padding-top: 10px;
-    
 }
 
 
@@ -160,13 +136,11 @@ h1 p
 
 .footer
 {
-  
     height: 70px;
     background: #ebebeb;
     margin-top:20px;
     text-align: center;
     position: auto 0;
-
 }
 
 .footer_text
