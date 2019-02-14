@@ -1,0 +1,175 @@
+body
+{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     color: #777;
+     background: #777;
+     width: 960px;
+     font-size: 18px;
+     margin: auto;
+}
+
+h1 p
+{
+    color: #777;
+    background: #ebebeb;
+}
+
+/** header css **/
+
+.header
+{
+    
+    height: 70px;
+    background: #ebebeb;
+    margin-top:20px;
+    text-align: center;
+    position: auto 0;
+
+}
+
+.header_text
+{
+    padding-top: 15px;
+}
+
+/** nav css **/
+
+.nav
+{
+  
+    height: 70px;
+    background: #ebebeb;
+    margin-top:20px;
+    text-align: center;
+    position: auto 0;
+
+}
+
+.nav_text
+{
+    padding-top: 15px;
+}
+
+/** section css **/
+
+.section
+{
+  
+    height: 300px;
+    width: 495px;
+    background: #ebebeb;
+    text-align: center;
+    position: fixed;
+
+}
+
+.section_text
+{
+    padding-top: 15px;
+}
+
+/** aside css **/
+
+.aside
+{
+  
+    height: 300px;
+    width: 440px;
+    background: #ebebeb;
+    text-align: center;
+    position: relative;
+    margin-left:520px;
+   
+
+}
+
+.aside_text
+{
+    padding-top: 30px;
+}
+
+/** article css **/
+
+.article
+{
+  
+    height: 200px;
+    width: 96%;
+    background: #777;
+    text-align: center;
+    position: relative;
+    left:2%;
+   
+   
+
+}
+
+.article_text
+{
+    padding-top: 30px;
+    color: #fff;
+}
+
+/** the headers css **/
+
+.the_headers
+{
+  
+    height: 50px;
+    width: 90%;
+    background: #ebebeb;
+    text-align: center;
+    position: relative;
+    left:5%;
+   
+   
+
+}
+
+.the_headers_text
+{
+    padding-top: 10px;
+    
+}
+
+/** the paragraph css **/
+.paragraph
+{
+  
+    height: 50px;
+    width: 90%;
+    background: #ebebeb;
+    text-align: center;
+    position: relative;
+    left:5%;
+   
+   
+   
+
+}
+
+.paragraph_text
+{
+    padding-top: 10px;
+    
+}
+
+
+
+/** footer css **/
+
+.footer
+{
+  
+    height: 70px;
+    background: #ebebeb;
+    margin-top:20px;
+    text-align: center;
+    position: auto 0;
+
+}
+
+.footer_text
+{
+    padding-top: 15px;
+}
